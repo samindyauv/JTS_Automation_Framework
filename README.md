@@ -17,8 +17,8 @@ The **JTS Automation Framework** is a powerful and flexible automation testing f
 
 ## Authors
 Developed and maintained by:
-- **Sachintha Samarathunga**
 - **Samindya Vass** - https://github.com/samindyauv
+- - **Sachintha Samarathunga** - https://github.com/Sachintha-Samarathunga
 
 ## Getting Started
 1. Clone the repository:
