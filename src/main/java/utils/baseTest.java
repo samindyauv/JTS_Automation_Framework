@@ -104,7 +104,7 @@ public class baseTest {
     }
 
 
-    // common method for extent report configuration
+    
     protected void configureTestReport(@NotNull ITestResult result){
         if (result.getStatus() == ITestResult.FAILURE) {
             extentReportManager
